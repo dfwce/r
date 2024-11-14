@@ -57,7 +57,7 @@
     <item name="keyBorderWidth">1.2dp</item>
     <item name="keyBorderWidthActivated">0dp</item>
     <item name="keyBorderColorBottom">#404040</item>
-    <item name="colorLabel">#ffffff</item>
+    <item name="colorLabel">#ff0000</item>
     <item name="colorLabelActivated">#3399ff</item>
     <item name="colorLabelLocked">#33cc33</item>
     <item name="colorSubLabel">#cccccc</item>
