@@ -2,8 +2,9 @@
 <resources>
   <!--DO NOT EDIT. This file is generated, see gen_layouts.py.-->
   <string-array name="pref_layout_values">
-    <item>system</item>
+    <item>custom</item>
     <item>latn_qwerty_us</item>
+    <item>system</item>
     <item>latn_colemak</item>
     <item>latn_dvorak</item>
     <item>arab_alt</item>
@@ -59,11 +60,11 @@
     <item>latn_qwertz_sk</item>
     <item>shaw_imperial_en</item>
     <item>urdu_phonetic_ur</item>
-    <item>custom</item>
   </string-array>
   <string-array name="pref_layout_entries">
-    <item>@string/pref_layout_e_system</item>
+    <item>-1</item>
     <item>QWERTY (US)</item>
+    <item>@string/pref_layout_e_system</item>
     <item>Colemak</item>
     <item>Dvorak</item>
     <item>Arabic Alt</item>
@@ -179,6 +180,5 @@
     <item>@xml/latn_qwertz_sk</item>
     <item>@xml/shaw_imperial_en</item>
     <item>@xml/urdu_phonetic_ur</item>
-    <item>-1</item>
   </integer-array>
 </resources>
