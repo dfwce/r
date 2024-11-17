@@ -2,9 +2,6 @@
 <!-- The bottom row used in the emoji pane. -->
 <keyboard bottom_row="false">
   <row>
-    <key key0='space'/>
-    <key key0='backspace'/>
-    <key key0='delete'/>
     <key key0='switch_back_emoji'/>
   </row>
   <!--
