@@ -55,6 +55,8 @@
     <item name="android:layout_marginVertical">8dp</item>
     <item name="android:layout_marginHorizontal">16dp</item>
     <item name="android:layout_gravity">center</item>
+    <item name="android:textColor">#f00</item> 
+    <item name="android:background">#000</item> 
   </style>
   <style name="appTheme" parent="@android:style/Theme.DeviceDefault.DayNight"/>
 </resources>
