@@ -35,23 +35,6 @@
     <attr name="navigationBarColor" format="color"/>
     <attr name="windowLightNavigationBar" format="boolean"/>
   </declare-styleable>
-  <style name="r" parent="BaseTheme">
-    <item name="android:isLightTheme">false</item>
-    <item name="colorKeyboard">#000</item>
-    <item name="colorKey">#f00</item>
-    <item name="colorKeyActivated">#000</item>
-    <item name="keyBorderWidth">0dp</item>
-    <item name="keyBorderWidthActivated">0dp</item>
-    <item name="keyBorderColorBottom">#000</item>
-    <item name="colorLabel">#000</item>
-    <item name="colorLabelActivated">#f00</item>
-    <item name="colorLabelLocked">#000</item>
-    <item name="colorSubLabel">#000</item>
-    <item name="emoji_button_bg" type="color">#000</item>
-    <item name="emoji_color" type="color">#f00</item>
-    <item name="secondaryDimming">1</item>
-    <item name="greyedDimming">1</item>
-  </style>
   <style name="BaseTheme">
     <item name="android:forceDarkAllowed">false</item>
     <item name="navigationBarColor">?attr/colorKeyboard</item>
@@ -68,18 +51,20 @@
   </style>
   <style name="Dark" parent="BaseTheme">
     <item name="android:isLightTheme">false</item>
-    <item name="colorKeyboard">#1b1b1b</item>
-    <item name="colorKey">#333333</item>
-    <item name="colorKeyActivated">#1b1b1b</item>
-    <item name="keyBorderWidth">1.2dp</item>
+    <item name="colorKeyboard">#000</item>
+    <item name="colorKey">#f00</item>
+    <item name="colorKeyActivated">#000</item>
+    <item name="keyBorderWidth">0dp</item>
     <item name="keyBorderWidthActivated">0dp</item>
-    <item name="keyBorderColorBottom">#404040</item>
-    <item name="colorLabel">#ffffff</item>
-    <item name="colorLabelActivated">#3399ff</item>
-    <item name="colorLabelLocked">#33cc33</item>
-    <item name="colorSubLabel">#cccccc</item>
-    <item name="emoji_button_bg" type="color">#202020</item>
-    <item name="emoji_color" type="color">#ffffff</item>
+    <item name="keyBorderColorBottom">#000</item>
+    <item name="colorLabel">#000</item>
+    <item name="colorLabelActivated">#f00</item>
+    <item name="colorLabelLocked">#000</item>
+    <item name="colorSubLabel">#000</item>
+    <item name="emoji_button_bg" type="color">#000</item>
+    <item name="emoji_color" type="color">#f00</item>
+    <item name="secondaryDimming">1</item>
+    <item name="greyedDimming">1</item>
   </style>
   <style name="Light" parent="BaseTheme">
     <item name="android:isLightTheme">true</item>
