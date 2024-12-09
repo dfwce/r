@@ -56,8 +56,8 @@
     <item name="colorKeyActivated">#f00</item>
     <item name="keyBorderWidth">0dp</item>
     <item name="keyBorderWidthActivated">0dp</item>
-    <item name="keyBorderColorBottom">#000</item>
-    <item name="colorLabel">#000</item>
+    <item name="keyBorderColorBottom">#000000</item>
+    <item name="colorLabel">#f00</item>
     <item name="colorLabelActivated">#000</item>
     <item name="colorLabelLocked">#000</item>
     <item name="colorSubLabel">#000</item>
