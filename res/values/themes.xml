@@ -42,8 +42,8 @@
     <item name="keyBorderRadius">0dp</item>
     <item name="keyBorderWidth">0dp</item>
     <item name="keyBorderWidthActivated">0dp</item>
-    <item name="secondaryDimming">0.25</item>
-    <item name="greyedDimming">0.5</item>
+    <item name="secondaryDimming">0</item>
+    <item name="greyedDimming">0</item>
     <item name="emoji_key_bg" type="color">?attr/emoji_button_bg</item>
     <item name="emoji_key_text" type="color">?attr/colorLabel</item>
     <item name="clipboard_divider_color" type="color">?attr/colorKey</item>
