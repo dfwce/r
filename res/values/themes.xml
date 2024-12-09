@@ -39,7 +39,7 @@
     <item name="android:forceDarkAllowed">false</item>
     <item name="navigationBarColor">?attr/colorKeyboard</item>
     <item name="windowLightNavigationBar">?attr/android:isLightTheme</item>
-    <item name="keyBorderRadius">5dp</item>
+    <item name="keyBorderRadius">0dp</item>
     <item name="keyBorderWidth">0dp</item>
     <item name="keyBorderWidthActivated">0dp</item>
     <item name="secondaryDimming">0.25</item>
@@ -52,19 +52,17 @@
   <style name="Dark" parent="BaseTheme">
     <item name="android:isLightTheme">false</item>
     <item name="colorKeyboard">#000</item>
-    <item name="colorKey">#f00</item>
-    <item name="colorKeyActivated">#000</item>
+    <item name="colorKey">#000</item>
+    <item name="colorKeyActivated">#f00</item>
     <item name="keyBorderWidth">0dp</item>
     <item name="keyBorderWidthActivated">0dp</item>
     <item name="keyBorderColorBottom">#000</item>
     <item name="colorLabel">#000</item>
-    <item name="colorLabelActivated">#f00</item>
+    <item name="colorLabelActivated">#000</item>
     <item name="colorLabelLocked">#000</item>
     <item name="colorSubLabel">#000</item>
     <item name="emoji_button_bg" type="color">#000</item>
     <item name="emoji_color" type="color">#f00</item>
-    <item name="secondaryDimming">1</item>
-    <item name="greyedDimming">1</item>
   </style>
   <style name="Light" parent="BaseTheme">
     <item name="android:isLightTheme">true</item>
