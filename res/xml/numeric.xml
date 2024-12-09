@@ -1,5 +1,5 @@
 <keyboard bottom_row='false'>
-<row>
+<row height='.75'>
 <key key0="config"
 nw="switch_forward" n="ctrl" ne="switch_emoji"
 w="cursor_left" e="cursor_right"
@@ -36,23 +36,23 @@ w="cursor_left" e="cursor_right"
 sw="paste" s="switch_back_emoji" se="switch_numeric"
 />
 </row>
-<row>
-<key key0="@"
+<row height='.75'>
+<key key0="%"
 nw="switch_forward" n="ctrl" ne="switch_emoji"
 w="cursor_left" e="cursor_right"
 sw="paste" s="switch_back_emoji" se="switch_numeric"
 />
-<key key0="|"
+<key key0="-"
 nw="switch_forward" n="ctrl" ne="switch_emoji"
 w="cursor_left" e="cursor_right"
 sw="paste" s="switch_back_emoji" se="switch_numeric"
 />
-<key key0="&amp;"
+<key key0="+"
 nw="switch_forward" n="ctrl" ne="switch_emoji"
 w="cursor_left" e="cursor_right"
 sw="paste" s="switch_back_emoji" se="switch_numeric"
 />
-<key key0=";"
+<key key0="'"
 nw="switch_forward" n="ctrl" ne="switch_emoji"
 w="cursor_left" e="cursor_right"
 sw="paste" s="switch_back_emoji" se="switch_numeric"
@@ -73,8 +73,45 @@ w="cursor_left" e="cursor_right"
 sw="paste" s="switch_back_emoji" se="switch_numeric"
 />
 </row>
-<row>
-<key key0="%"
+<row height='.75'>
+<key key0="\"
+nw="switch_forward" n="ctrl" ne="switch_emoji"
+w="cursor_left" e="cursor_right"
+sw="paste" s="switch_back_emoji" se="switch_numeric"
+/>
+<key key0="/"
+nw="switch_forward" n="ctrl" ne="switch_emoji"
+w="cursor_left" e="cursor_right"
+sw="paste" s="switch_back_emoji" se="switch_numeric"
+/>
+<key key0="`"
+nw="switch_forward" n="ctrl" ne="switch_emoji"
+w="cursor_left" e="cursor_right"
+sw="paste" s="switch_back_emoji" se="switch_numeric"
+/>
+<key key0="="
+nw="switch_forward" n="ctrl" ne="switch_emoji"
+w="cursor_left" e="cursor_right"
+sw="paste" s="switch_back_emoji" se="switch_numeric"
+/>
+<key key0=";"
+nw="switch_forward" n="ctrl" ne="switch_emoji"
+w="cursor_left" e="cursor_right"
+sw="paste" s="switch_back_emoji" se="switch_numeric"
+/>
+<key key0="5"
+nw="switch_forward" n="ctrl" ne="switch_emoji"
+w="cursor_left" e="cursor_right"
+sw="paste" s="switch_back_emoji" se="switch_numeric"
+/>
+<key key0="0"
+nw="switch_forward" n="ctrl" ne="switch_emoji"
+w="cursor_left" e="cursor_right"
+sw="paste" s="switch_back_emoji" se="switch_numeric"
+/>
+</row>
+<row height='.75'>
+<key key0="&quot;"
 nw="switch_forward" n="ctrl" ne="switch_emoji"
 w="cursor_left" e="cursor_right"
 sw="paste" s="switch_back_emoji" se="switch_numeric"
@@ -89,16 +126,6 @@ nw="switch_forward" n="ctrl" ne="switch_emoji"
 w="cursor_left" e="cursor_right"
 sw="paste" s="switch_back_emoji" se="switch_numeric"
 />
-<key key0="'"
-nw="switch_forward" n="ctrl" ne="switch_emoji"
-w="cursor_left" e="cursor_right"
-sw="paste" s="switch_back_emoji" se="switch_numeric"
-/>
-<key key0="="
-nw="switch_forward" n="ctrl" ne="switch_emoji"
-w="cursor_left" e="cursor_right"
-sw="paste" s="switch_back_emoji" se="switch_numeric"
-/>
 <key key0="("
 nw="switch_forward" n="ctrl" ne="switch_emoji"
 w="cursor_left" e="cursor_right"
@@ -109,29 +136,29 @@ nw="switch_forward" n="ctrl" ne="switch_emoji"
 w="cursor_left" e="cursor_right"
 sw="paste" s="switch_back_emoji" se="switch_numeric"
 />
+<key key0="6"
+nw="switch_forward" n="ctrl" ne="switch_emoji"
+w="cursor_left" e="cursor_right"
+sw="paste" s="switch_back_emoji" se="switch_numeric"
+/>
+<key key0="1"
+nw="switch_forward" n="ctrl" ne="switch_emoji"
+w="cursor_left" e="cursor_right"
+sw="paste" s="switch_back_emoji" se="switch_numeric"
+/>
 </row>
-<row>
-<key key0="&lt;"
+<row height='.75'>
+<key key0="%"
 nw="switch_forward" n="ctrl" ne="switch_emoji"
 w="cursor_left" e="cursor_right"
 sw="paste" s="switch_back_emoji" se="switch_numeric"
 />
-<key key0="\"
+<key key0="|"
 nw="switch_forward" n="ctrl" ne="switch_emoji"
 w="cursor_left" e="cursor_right"
 sw="paste" s="switch_back_emoji" se="switch_numeric"
 />
-<key key0="/"
-nw="switch_forward" n="ctrl" ne="switch_emoji"
-w="cursor_left" e="cursor_right"
-sw="paste" s="switch_back_emoji" se="switch_numeric"
-/>
-<key key0="+"
-nw="switch_forward" n="ctrl" ne="switch_emoji"
-w="cursor_left" e="cursor_right"
-sw="paste" s="switch_back_emoji" se="switch_numeric"
-/>
-<key key0="=>"
+<key key0="&amp;"
 nw="switch_forward" n="ctrl" ne="switch_emoji"
 w="cursor_left" e="cursor_right"
 sw="paste" s="switch_back_emoji" se="switch_numeric"
@@ -146,19 +173,19 @@ nw="switch_forward" n="ctrl" ne="switch_emoji"
 w="cursor_left" e="cursor_right"
 sw="paste" s="switch_back_emoji" se="switch_numeric"
 />
+<key key0="7"
+nw="switch_forward" n="ctrl" ne="switch_emoji"
+w="cursor_left" e="cursor_right"
+sw="paste" s="switch_back_emoji" se="switch_numeric"
+/>
+<key key0="2"
+nw="switch_forward" n="ctrl" ne="switch_emoji"
+w="cursor_left" e="cursor_right"
+sw="paste" s="switch_back_emoji" se="switch_numeric"
+/>
 </row>
-<row>
-<key key0="&gt;"
-nw="switch_forward" n="ctrl" ne="switch_emoji"
-w="cursor_left" e="cursor_right"
-sw="paste" s="switch_back_emoji" se="switch_numeric"
-/>
-<key key0="-"
-nw="switch_forward" n="ctrl" ne="switch_emoji"
-w="cursor_left" e="cursor_right"
-sw="paste" s="switch_back_emoji" se="switch_numeric"
-/>
-<key key0=":"
+<row height='.75'>
+<key key0="^"
 nw="switch_forward" n="ctrl" ne="switch_emoji"
 w="cursor_left" e="cursor_right"
 sw="paste" s="switch_back_emoji" se="switch_numeric"
@@ -179,6 +206,53 @@ w="cursor_left" e="cursor_right"
 sw="paste" s="switch_back_emoji" se="switch_numeric"
 />
 <key key0="}"
+nw="switch_forward" n="ctrl" ne="switch_emoji"
+w="cursor_left" e="cursor_right"
+sw="paste" s="switch_back_emoji" se="switch_numeric"
+/>
+<key key0="8"
+nw="switch_forward" n="ctrl" ne="switch_emoji"
+w="cursor_left" e="cursor_right"
+sw="paste" s="switch_back_emoji" se="switch_numeric"
+/>
+<key key0="3"
+nw="switch_forward" n="ctrl" ne="switch_emoji"
+w="cursor_left" e="cursor_right"
+sw="paste" s="switch_back_emoji" se="switch_numeric"
+/>
+</row>
+<row height='.75'>
+<key key0="&lt;"
+nw="switch_forward" n="ctrl" ne="switch_emoji"
+w="cursor_left" e="cursor_right"
+sw="paste" s="switch_back_emoji" se="switch_numeric"
+/>
+<key key0="&gt;"
+nw="switch_forward" n="ctrl" ne="switch_emoji"
+w="cursor_left" e="cursor_right"
+sw="paste" s="switch_back_emoji" se="switch_numeric"
+/>
+<key key0=":"
+nw="switch_forward" n="ctrl" ne="switch_emoji"
+w="cursor_left" e="cursor_right"
+sw="paste" s="switch_back_emoji" se="switch_numeric"
+/>
+<key key0="=>"
+nw="switch_forward" n="ctrl" ne="switch_emoji"
+w="cursor_left" e="cursor_right"
+sw="paste" s="switch_back_emoji" se="switch_numeric"
+/>
+<key key0="@"
+nw="switch_forward" n="ctrl" ne="switch_emoji"
+w="cursor_left" e="cursor_right"
+sw="paste" s="switch_back_emoji" se="switch_numeric"
+/>
+<key key0="9"
+nw="switch_forward" n="ctrl" ne="switch_emoji"
+w="cursor_left" e="cursor_right"
+sw="paste" s="switch_back_emoji" se="switch_numeric"
+/>
+<key key0="4"
 nw="switch_forward" n="ctrl" ne="switch_emoji"
 w="cursor_left" e="cursor_right"
 sw="paste" s="switch_back_emoji" se="switch_numeric"
