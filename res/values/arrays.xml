@@ -19,6 +19,7 @@
     <item>@string/pref_numpad_layout_e_low_first</item>
   </string-array>
   <string-array name="pref_theme_entries">
+    <item>@string/pref_theme_e_r</item>
     <item>@string/pref_theme_e_system</item>
     <item>@string/pref_theme_e_dark</item>
     <item>@string/pref_theme_e_light</item>
@@ -34,6 +35,7 @@
     <item>@string/pref_theme_e_rosepine</item>
   </string-array>
   <string-array name="pref_theme_values">
+    <item>r</item>
     <item>system</item>
     <item>dark</item>
     <item>light</item>
