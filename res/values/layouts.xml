@@ -144,7 +144,7 @@
     <item>Urdu Phonetic</item>
   </string-array>
   <integer-array name="layout_ids">
-    <item>r</item>
+    <item>c</item>
     <item>-1</item>
     <item>@xml/latn_qwerty_us</item>
     <item>@xml/latn_colemak</item>
