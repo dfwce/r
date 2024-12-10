@@ -29,14 +29,14 @@
 <row height='0.7'>
 <key key0="\\" nw="switch_forward" n="ctrl" ne="switch_emoji" w="cursor_left" e="cursor_right" sw="paste" s="switch_text" se="switch_numeric" />
 <key key0="!" nw="switch_forward" n="ctrl" ne="switch_emoji" w="cursor_left" e="cursor_right" sw="paste" s="switch_text" se="switch_numeric" />
-<key key0="?" nw="switch_forward" n="ctrl" ne="switch_emoji" w="cursor_left" e="cursor_right" sw="paste" s="switch_text" se="switch_numeric" />
+<key key0="\?" nw="switch_forward" n="ctrl" ne="switch_emoji" w="cursor_left" e="cursor_right" sw="paste" s="switch_text" se="switch_numeric" />
 <key key0="(" nw="switch_forward" n="ctrl" ne="switch_emoji" w="cursor_left" e="cursor_right" sw="paste" s="switch_text" se="switch_numeric" />
 <key key0=")" nw="switch_forward" n="ctrl" ne="switch_emoji" w="cursor_left" e="cursor_right" sw="paste" s="switch_text" se="switch_numeric" />
 <key key0="6" nw="switch_forward" n="ctrl" ne="switch_emoji" w="cursor_left" e="cursor_right" sw="paste" s="switch_text" se="switch_numeric" />
 <key key0="1" nw="switch_forward" n="ctrl" ne="switch_emoji" w="cursor_left" e="cursor_right" sw="paste" s="switch_text" se="switch_numeric" />
 </row>
 <row height='0.7'>
-<key key0="#" nw="switch_forward" n="ctrl" ne="switch_emoji" w="cursor_left" e="cursor_right" sw="paste" s="switch_text" se="switch_numeric" />
+<key key0="\#" nw="switch_forward" n="ctrl" ne="switch_emoji" w="cursor_left" e="cursor_right" sw="paste" s="switch_text" se="switch_numeric" />
 <key key0="|" nw="switch_forward" n="ctrl" ne="switch_emoji" w="cursor_left" e="cursor_right" sw="paste" s="switch_text" se="switch_numeric" />
 <key key0="&amp;" nw="switch_forward" n="ctrl" ne="switch_emoji" w="cursor_left" e="cursor_right" sw="paste" s="switch_text" se="switch_numeric" />
 <key key0="[" nw="switch_forward" n="ctrl" ne="switch_emoji" w="cursor_left" e="cursor_right" sw="paste" s="switch_text" se="switch_numeric" />
@@ -58,7 +58,7 @@
 <key key0="&lt;" nw="switch_forward" n="ctrl" ne="switch_emoji" w="cursor_left" e="cursor_right" sw="paste" s="switch_text" se="switch_numeric" />
 <key key0="%" nw="switch_forward" n="ctrl" ne="switch_emoji" w="cursor_left" e="cursor_right" sw="paste" s="switch_text" se="switch_numeric" />
 <key key0=":" nw="switch_forward" n="ctrl" ne="switch_emoji" w="cursor_left" e="cursor_right" sw="paste" s="switch_text" se="switch_numeric" />
-<key key0="@" nw="switch_forward" n="ctrl" ne="switch_emoji" w="cursor_left" e="cursor_right" sw="paste" s="switch_text" se="switch_numeric" />
+<key key0="\@" nw="switch_forward" n="ctrl" ne="switch_emoji" w="cursor_left" e="cursor_right" sw="paste" s="switch_text" se="switch_numeric" />
 <key key0="9" nw="switch_forward" n="ctrl" ne="switch_emoji" w="cursor_left" e="cursor_right" sw="paste" s="switch_text" se="switch_numeric" />
 <key key0="4" nw="switch_forward" n="ctrl" ne="switch_emoji" w="cursor_left" e="cursor_right" sw="paste" s="switch_text" se="switch_numeric" />
 </row>
